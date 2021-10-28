@@ -1,3 +1,5 @@
 Arquivo versão 1
 
 Primeira adição para usar o comando >> git pull origin main
+
+Segunda alteração, agora localmente para realizar um novo push
