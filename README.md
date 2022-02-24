@@ -101,7 +101,7 @@ Dessa forma o git e o GitHub estarão conectados
 >> git push -u origin <"nomeDaBranch">
  
 
-#-------------------AULA 3--------------------
+# AULA 3
 	TRABALHANDO COM BRANCH
 	
 Branch são versões diferente do projeto, caso queira trabalhar em uma versão 2.0 por exemplos, mexer no projeto sem modificar o original
