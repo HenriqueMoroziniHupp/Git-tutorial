@@ -4,6 +4,7 @@ Aprendendo a usar o git com o canal "Thi Code"
 Aula de git com "Thi Code" no Youtube;
 
 AULA 1: https://www.youtube.com/watch?v=Ckig8H_h538
+
 AULA 2: https://www.youtube.com/watch?v=o_ECnZ8zk_Q
 
 
