@@ -8,7 +8,7 @@ AULA 1: https://www.youtube.com/watch?v=Ckig8H_h538
 AULA 2: https://www.youtube.com/watch?v=o_ECnZ8zk_Q
 
 
-# -------------------AULA 1--------------------
+# AULA 1
 
 CRIANDO REPOSITORIO NO GITHUB O PASSANDO PARA O PC:
 
@@ -62,7 +62,7 @@ Esse comando fará com que todos os arquivos monitorados fiquem salvo caso exist
 
 
 
-# -------------------AULA 2--------------------
+# AULA 2
 
 CRIANDO REPOSITORIO NO PC O PASSANDO PARA O GITHUB:
 
